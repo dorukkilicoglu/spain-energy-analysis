@@ -5,6 +5,10 @@ since 2019, and **how much does wind and solar output lower the price of electri
 
 ![Price by wind + solar share](output/figures/05_price_by_bucket.png)
 
+## Power BI dashboard
+
+![Power BI dashboard](dashboard/dashboard.png)
+
 ## Key findings
 
 - **Renewables rose from 37.8% of generation in 2019 to 55.5% in 2025.** Wind + solar went
